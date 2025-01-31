@@ -12,6 +12,12 @@ Traditional fingerprint analysis relies heavily on human expertise, making it su
 - **Evaluation:** Performance assessed through accuracy metrics and classification reports.
 
 ## Get Started
+
+### Download the Dataset
+📥 **Download the dataset available on Kaggle:** 
+https://www.kaggle.com/datasets/ruizgara/socofing/data
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fingerprint-gender-classification.git
