@@ -32,6 +32,7 @@ If you cloned the repo and the dataset is missing (or `images.zip` is only a few
 ```bash
 git lfs install
 git lfs pull
+```
 
 📥 **The dataset is open-source, also available on Kaggle:** 
 https://www.kaggle.com/datasets/ruizgara/socofing/data
