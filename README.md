@@ -36,6 +36,7 @@ git lfs pull
 
 📥 **The dataset is open-source, also available on Kaggle:** 
 https://www.kaggle.com/datasets/ruizgara/socofing/data
+
 For this project we are just using the folder named as "Real" in the Kaggle project.
 
 
