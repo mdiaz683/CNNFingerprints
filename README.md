@@ -12,15 +12,9 @@ Traditional fingerprint analysis relies heavily on human expertise, making it su
 - **Evaluation:** Performance assessed through accuracy metrics and classification reports.
 
 ## Get Started
-
-### Download the Dataset
-📥 **Download the dataset available on Kaggle:** 
-https://www.kaggle.com/datasets/ruizgara/socofing/data
-
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fingerprint-gender-classification.git
+   git clone https://github.com/mdiaz683/CNNFingerprints.git
    ```
 2. Install dependencies:
    ```bash
@@ -28,8 +22,23 @@ https://www.kaggle.com/datasets/ruizgara/socofing/data
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook Final_Project_Code_Maria_Diaz.ipynb
+   jupyter notebook cnn_gender_class.ipynb
    ```
+### 🔹 Important Note: Git LFS is Required
+This project uses **Git LFS** to manage large files. When cloning the repository, the dataset should download automatically **if Git LFS is installed**.
+
+If you cloned the repo and the dataset is missing (or `images.zip` is only a few KB), install Git LFS and pull the dataset manually:
+
+```bash
+git lfs install
+git lfs pull
+```
+
+📥 **The dataset is open-source, also available on Kaggle:** 
+https://www.kaggle.com/datasets/ruizgara/socofing/data
+
+For this project we are just using the folder named as "Real" in the Kaggle project.
+
 
 ## About the Author
 Developed by **Maria Diaz Alba** | Florida International University
