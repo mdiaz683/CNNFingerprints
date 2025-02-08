@@ -1,7 +1,7 @@
 # Fingerprint-Based Gender Classification Using CNNs
 
 ## Overview
-This project explores the use of Convolutional Neural Networks (CNNs) for gender classification from fingerprint images. By leveraging deep learning, it aims to uncover patterns that distinguish male and female fingerprints, offering potential applications in forensic science and biometric security.
+This project explores the application of Convolutional Neural Networks (CNNs) for gender classification from fingerprint images. By leveraging deep learning architectures, it aims to uncover patterns that distinguish male and female fingerprints, offering potential applications in forensic science and biometric security.
 
 ## Why It Matters
 Traditional fingerprint analysis relies heavily on human expertise, making it subjective and time-consuming. This project investigates how AI can enhance accuracy and efficiency in gender classification, paving the way for advancements in automated biometric systems.
